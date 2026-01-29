@@ -1,0 +1,18 @@
+/* Styling général de l'application */
+.App {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style du compteur */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+p {
+  font-size: 18px;
+}
